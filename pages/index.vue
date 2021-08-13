@@ -4,6 +4,7 @@
       <Logo />
       <h1 class="title">
         Bom dia!  
+        Hola!
       </h1>
       <div class="links">
         <a
