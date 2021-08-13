@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        Bom dia!
+        Bom dia!  
       </h1>
       <div class="links">
         <a
